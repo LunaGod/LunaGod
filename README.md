@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi+there!+I'm+Rasho)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi+there!+I'm+LooSheng)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate frontend developer from China.</h3>
 
@@ -16,4 +16,4 @@ I code with : 👇
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasho7&count_private=true)](#)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loosheng&count_private=true)](#)
