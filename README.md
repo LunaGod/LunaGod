@@ -17,3 +17,9 @@ I code with : 👇
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loosheng&count_private=true)](#)
+
+## Special thanks
+
+Thanks to [JetBrains](https://www.jetbrains.com/?from=com.github.loosheng) for supporting free open source licenses.
+
+![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)
